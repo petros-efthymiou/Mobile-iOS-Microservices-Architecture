@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (5.5.0)
+  - MockingbirdFramework (0.20.0)
+  - Resolver (1.5.0)
+  - RxBlocking (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - MockingbirdFramework (~> 0.20.0)
+  - Resolver
+  - RxBlocking (= 6.2.0)
+  - RxSwift (= 6.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MockingbirdFramework
+    - Resolver
+    - RxBlocking
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  MockingbirdFramework: 54e35fbbb47b806c1a1fae2cf3ef99f6eceb55e5
+  Resolver: 68984624572763018fd8ec7b8e3e8df0e3b6bba5
+  RxBlocking: 0b29f7d2079109a8de49c411381bed7c33ef1eeb
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+
+PODFILE CHECKSUM: 63e6b22b0f1f198b5084e96efd5c8016b30a5bce
+
+COCOAPODS: 1.11.2

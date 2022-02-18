@@ -1,0 +1,17 @@
+## User settings
+xcuserdata/
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+.build/
+
+# CocoaPods
+Pods/
+# Add this line if you want to avoid checking in source code from the Xcode workspace
+# *.xcworkspace
